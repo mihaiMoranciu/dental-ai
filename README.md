@@ -1,6 +1,12 @@
 # Dental AI — Analiză Radiografii Dentare
 
-Aplicație web pentru analiza automată a radiografiilor dentare prin inteligență artificială, construită cu Next.js.
+**Mihai Moranciu** · Master SIMPRE · Grupa 1146
+
+---
+
+**Link video prezentare:** *(se completează după înregistrare)*
+
+**Link publicare aplicație:** *(se completează după deploy)*
 
 ---
 
