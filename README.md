@@ -23,7 +23,7 @@ Aplicația include și un modul de chat general cu AI, unde medicul poate pune �
 
 | Tehnologie | Rol |
 |---|---|
-| Next.js 15 (App Router) | Framework full-stack, routing, API routes |
+| Next.js 16.2.4 (App Router) | Framework full-stack, routing, API routes |
 | TypeScript | Limbaj de programare |
 | Tailwind CSS v4 | Stilizare UI |
 | shadcn/ui | Componente UI (Card, Button, Input, Label) |
