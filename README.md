@@ -4,9 +4,9 @@
 
 ---
 
-**Link video prezentare:** *(se completează după înregistrare)*
+**Link video prezentare:** https://youtu.be/UOJj7QkqQLQ
 
-**Link publicare aplicație:** *(se completează după deploy)*
+**Link publicare aplicație:** https://ai-chatbot-plugin-three.vercel.app
 
 ---
 
